@@ -31,6 +31,7 @@ Soy un apasionado del desarrollo back-end 💻. Me entusiasma la idea de colabor
 Actualmente, estoy enfocado en mejorar mis habilidades a través de proyectos que desafían mis conocimientos 🚀.
 
 ## Contacto 📬
+Echa un vistazo a mis proyectos y no dudes en ponerte en contacto si estás interesado en colaborar o simplemente para charlar sobre tecnología 🌟. 
 
 - [LinkedIn](https://www.linkedin.com/in/mauricio-martinez-a07aa9297)
 - [Email](mailto:maurimartine01@gmail.com)
