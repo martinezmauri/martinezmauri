@@ -16,7 +16,7 @@
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/martinezmauri">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinezmauri&theme=github-dark-dimmed&custom_title=Mauricio%20Activity%20Graph&hide_border=true" alt="Activity Graph" width="700"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinezmauri&theme=github-dark-dimmed&custom_title=Mauricio%20Activity%20Graph&hide_border=true" alt="Activity Graph" width="800"/>
   </a>
 </p>
 
