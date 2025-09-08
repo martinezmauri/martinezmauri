@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://socialify.git.ci/martinezmauri/martinezmauri/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="martinezmauri" width="700" height="300" />
+  <img src="https://socialify.git.ci/martinezmauri/martinezmauri/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="martinezmauri" width="900" height="300" />
 </p>
 
 <!-- Botones de contacto -->
