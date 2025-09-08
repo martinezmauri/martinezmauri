@@ -13,9 +13,11 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinezmauri&show_icons=true&theme=radical" alt="GitHub Stats" width="700" />
+  <a href="https://github.com/martinezmauri">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinezmauri&theme=github-dark-dimmed&custom_title=Mauricio%20Activity%20Graph&hide_border=true" alt="Activity Graph" width="700"/>
+  </a>
 </p>
 
 <!-- About Me -->
