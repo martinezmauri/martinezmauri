@@ -23,9 +23,15 @@
 <!-- About Me -->
 ## Sobre mí
 
-Hola, soy **Mauricio Martínez**, estudiante autodidacta de programación y desarrollador backend.  
-Actualmente hago pasantías y desarrollo proyectos personales enfocados en aplicaciones web y sistemas de gestión.
+¡Hola! Soy **Mauricio Martínez**, desarrollador **web fullstack** de Mendoza, Argentina.  
 
+Me apasiona la programación y disfruto trabajar en equipo para construir soluciones completas y eficientes. Tengo experiencia trabajando tanto en **backend** como en **frontend**.  
+
+He participado en proyectos **personales y académicos**, donde he desarrollado y documentado **APIs**, implementado **interfaces funcionales y atractivas**, y colaborado con equipos para entregar soluciones completas.  
+
+Actualmente busco oportunidades para **crecer profesionalmente** y aportar valor en proyectos desafiantes, explorando nuevas tecnologías y prácticas de desarrollo modernas.
+
+<!-- Tecnologias -->
 ### Tecnologías que utilizo:
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
