@@ -50,7 +50,7 @@ Actualmente busco oportunidades para **crecer profesionalmente** y aportar valor
 <!-- Proyectos -->
 ## Proyectos
 
-### [Gestor de turnos SaaS](https://github.com/martinezmauri/gestor-turnos-saas)
+### [Gestor de turnos SaaS](https://github.com/martinezmauri/ManagerSystemProject)
 Una aplicación SaaS para la gestión de turnos y reservas en negocios. Permite administrar clientes, empleados, servicios y turnos con una interfaz intuitiva.
 
 ### [DevNavigator](https://github.com/martinezmauri/devnavigator)
