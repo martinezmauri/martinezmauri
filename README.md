@@ -46,3 +46,12 @@ Actualmente busco oportunidades para **crecer profesionalmente** y aportar valor
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<!-- Proyectos -->
+## Proyectos
+
+### [Gestor de turnos SaaS](https://github.com/martinezmauri/gestor-turnos-saas)
+Una aplicación SaaS para la gestión de turnos y reservas en negocios. Permite administrar clientes, empleados, servicios y turnos con una interfaz intuitiva.
+
+### [DevNavigator](https://github.com/martinezmauri/devnavigator)
+Plataforma educativa diseñada para ofrecer cursos pagos, con autenticación de usuarios y gestión de pagos.
