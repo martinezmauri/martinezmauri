@@ -1,37 +1,14 @@
-# ¡Hola, Bienvenido/a! 😃
-Soy Mauricio Martinez, un desarrollador Full Stack apasionado por la tecnología y el desarrollo de software.
+<!-- Banner -->
+<p align="center">
+  <img src="https://socialify.git.ci/martinezmauri/martinezmauri/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="martinezmauri" width="700" height="300" />
+</p>
 
-## Habilidades 📚
-
-### Lenguajes de Programación 👨‍💻
-- **JavaScript**
-- **TypeScript**
-
-### Back-end 🛠️
-- **Node.js**
-- **Express**
-- **NestJS**
-- **TypeORM**
-- **PostgreSQL**
-- **MongoDB**
-
-### Front-end 🎨
-- **React**
-- **Redux**
-
-### Testing 🧪
-- **Jest**
-- **Jasmine**
-
-### DevOps 🚀
-- **Docker**
-
-## Sobre mi 💬
-Soy un apasionado del desarrollo back-end 💻. Me entusiasma la idea de colaborar en equipo 🤝 para resolver problemas complejos y aprender de cada experiencia 📚.
-Actualmente, estoy enfocado en mejorar mis habilidades a través de proyectos que desafían mis conocimientos 🚀.
-
-## Contacto 📬
-Echa un vistazo a mis proyectos y no dudes en ponerte en contacto si estás interesado en colaborar o simplemente para charlar sobre tecnología 🌟. 
-
-- [LinkedIn](https://www.linkedin.com/in/mauricio-martinez-a07aa9297)
-- [Email](mailto:maurimartine01@gmail.com)
+<!-- Botones de contacto -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tusitio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-2ea44f?style=for-the-badge&logo=google-earth&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
